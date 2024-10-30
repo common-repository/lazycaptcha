@@ -1,0 +1,52 @@
+# Copyright (C) 2021 Hans Matzen
+# This file is distributed under the same license as the LazyCaptcha plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LazyCaptcha 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-lazycaptcha\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-05T07:03:46+01:00\n"
+"PO-Revision-Date: 2021-04-08 07:36+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wp-lazycaptcha\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#. Plugin Name of the plugin
+msgid "LazyCaptcha"
+msgstr "LazyCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.tuxlog.de"
+msgstr "https://www.tuxlog.de"
+
+#. Description of the plugin
+msgid ""
+"LazyCaptcha is a small and lazy plugin to prevent bots from spamming your "
+"comments."
+msgstr ""
+"LazyCaptcha - маленький и ленивый плагин, который не даст ботам замусорить "
+"ваши комментарии спамом."
+
+#. Author of the plugin
+msgid "Hans Matzen"
+msgstr "Ганс Матцен"
+
+#: wp-lazycaptcha.php:148
+msgid "Enter Result"
+msgstr "Ввести результат"
+
+#: wp-lazycaptcha.php:210
+msgid "Error"
+msgstr "Ошибка"
+
+#: wp-lazycaptcha.php:210
+msgid "Please fill in the correct answer and try again."
+msgstr "Дайте правильный ответ и попробуйте ещё раз."
